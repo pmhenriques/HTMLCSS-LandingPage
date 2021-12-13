@@ -92,7 +92,7 @@ section {
     width: 330px;
     height: 30px;
     padding: 6px 12px;
-    border: 1px solid #8598a2;
+    border: 1px solid #a0a0a0;
 }
 
 .search-button {
@@ -105,7 +105,7 @@ section {
 }
 
 .nav-list {
-    padding: 0;
+    padding-left: 0;
     width: 575px;
     margin-top: 10px;
 }
@@ -125,7 +125,7 @@ section {
     text-align: right;
     padding: 15px;
     color: #364147;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .profile-pic {
