@@ -316,6 +316,18 @@ footer:after {
     z-index: -1;
 }
 
+footer a {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 0 0 4px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
 .lists { 
     flex: 0 0 75%;
     padding: 40px 15px;
@@ -387,6 +399,10 @@ footer:after {
     padding: 40px 0;
     color: #e5e5e5;
     font-size: 16px;
+}
+
+.ps img {
+    max-width: 230px;
 }
 
 .demo {
